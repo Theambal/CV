@@ -20,8 +20,8 @@ document.querySelector('.experience-list').innerHTML = expirienceData;
 
 document.querySelector('.contacts-block').innerHTML += `<li><a href="tel:${data.phone}">Телефон: ${data.phone}</a></li>`
 document.querySelector('.contacts-block').innerHTML += `<li><a href="mailto:${data.email}">${data.email}</a></li>`
-document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.GitHub}">My GitHub</a></li>`
-document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.linkedin}">My linkedin</a></li>`
+document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.GitHub}" target="_blank">My GitHub</a></li>`
+document.querySelector('.contacts-block').innerHTML += `<li><a href="${data.linkedin}" target="_blank">My linkedin</a></li>`
 document.querySelector('.address').innerHTML = `<p>${data.address}</p>`;
 document.querySelector('#my-photo').src = data.photo;
 
