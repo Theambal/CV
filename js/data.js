@@ -2,7 +2,7 @@ const data = {
     "first_name": "Andrey",
     "last_name": "Melnikov",
     "job_title": "Web developer",
-    "photo": "/images/rhG_-GG01aI.jpg",
+    "photo": "../images/rhG_-GG01aI.jpg",
     "phone": "+7(961)1488-666",
     "email": "theambal@gmail.com",
     "GitHub": "github.com/Theambal",
