@@ -5,8 +5,8 @@ const data = {
     "photo": "./images/rhG_-GG01aI.jpg",
     "phone": "+7(961)1488-666",
     "email": "theambal@gmail.com",
-    "GitHub": "github.com/Theambal",
-    "linkedin": "linkedin.com/in/theambal",
+    "GitHub": "https://github.com/Theambal",
+    "linkedin": "https://www.linkedin.com/in/theambal",
     "address": "г. Тула ул.Галкина, Россия",
     "skills": [
         "Ruby",
