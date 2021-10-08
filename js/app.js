@@ -6,8 +6,8 @@ document.querySelector('.profile-data').innerHTML = data.profile;
  */
 let expirienceData = '';
 experience.forEach(item => {
-    expirienceData += `<section class="mb-5">`;
-    expirienceData += ` <h4 class="company-name mb-2">${item.company} - ${item.city}, <i>${item.from} - ${item.to}</i></h4>`;
+    expirienceData += `<section class="mb-2">`;
+    expirienceData += ` <h4 class="company-name mb-1">${item.company} - ${item.city}, <i>${item.from} - ${item.to}</i></h4>`;
     expirienceData += `<h5>${item.position}</h5>`;
     expirienceData += `<p>${item.description}</p>`;
     expirienceData += `</section>`;
