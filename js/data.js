@@ -20,7 +20,6 @@ const data = {
         "Linux",
         "RSpec",
         "Git",
-        "http",
         "English - Elementary(А1)",
     ],
     "education": [
