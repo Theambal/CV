@@ -10,7 +10,7 @@ const data = {
     "address": "г. Тула ул.Галкина, Россия",
     "skills": [
         "JavaScript",
-        "ReactJS"
+        "ReactJS",
         "Ruby",
         "Ruby on Rails",
         "ООП",
